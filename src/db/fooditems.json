@@ -1,0 +1,11 @@
+{
+
+    "fooditems" : [
+        {"id" : "1",
+          "name": "Apple",
+        "description": "Main source of Iron"  },
+        {"id" : "2",
+          "name": "Banana",
+        "description": "Main source of Calcium"  }
+    ]
+}
